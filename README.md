@@ -1,5 +1,5 @@
 # Micrograd
-Building an Autograd engine Micrograd (by Andrej Karpathy)
+Building an Autograd engine Micrograd (by [Andrej Karpathy](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=1))
 
 ### Micrograd:
 - Implements backpropagation (reverse-mode autodiff) over a dynamically built DAG and a small neural networks library on top of it with a PyTorch-like API
