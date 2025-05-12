@@ -31,6 +31,6 @@ print(f'{b.grad:.4f}') # prints 645.5773, i.e. the numerical value of dg/db
 - **Value** class contains all the basic Mathematical operations and backward pass for these operations.
 - **MLP** class implements Multi Layer Perceptron using Layers and Neuron class.
 
-###Micrograd_example.ipynb
+### Micrograd_example.ipynb
 - This file contain sample example to use Micrograd.
 - Also implemented MLP.
